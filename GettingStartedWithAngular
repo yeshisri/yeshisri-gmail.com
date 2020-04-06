@@ -1,0 +1,3 @@
+1. Create New Angular Project 
+2.run ng new src (Now this will create and also install npm packages which are necessary also it will create the app component)
+We need to create a new File which will hold the connection of how angular run as in how jvm runs kinda!
